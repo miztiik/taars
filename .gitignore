@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pdm
+
+# Environments
+.venv/
+.env
+.env.*
+
+# UV
+.uv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb.work
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & Artifacts
+logs/
+artifacts/
+*.log*
+
+# Model info
+model_config.list
+
